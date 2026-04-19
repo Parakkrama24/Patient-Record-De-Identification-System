@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="97de3d0f-5151-42b2-992a-64bd465dee9c" name="Changes" comment="" />
+    <list default="true" id="97de3d0f-5151-42b2-992a-64bd465dee9c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/AAi_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AAi_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/services/anonymizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/services/anonymizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/services/pii_detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/services/pii_detector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/services/pipeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/services/pipeline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/services/synthetic_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/services/synthetic_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/utils/regex_patterns.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/utils/regex_patterns.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,7 +41,9 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "feature/NLP-intregration",
     "junie.onboarding.icon.badge.shown": "true",
     "to.speed.mode.migration.done": "true"
   }
