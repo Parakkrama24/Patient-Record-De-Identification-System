@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97de3d0f-5151-42b2-992a-64bd465dee9c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/AAi_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AAi_project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/services/anonymizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/services/anonymizer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/services/pii_detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/services/pii_detector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/services/pipeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/services/pipeline.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/services/synthetic_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/services/synthetic_generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/utils/regex_patterns.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/utils/regex_patterns.py" afterDir="false" />
-    </list>
+    <list default="true" id="97de3d0f-5151-42b2-992a-64bd465dee9c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,9 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="3CaKkUABAC7fjKqQez7SlQz0SHD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,8 +34,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature/NLP-intregration",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
