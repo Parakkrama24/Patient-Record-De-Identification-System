@@ -14,6 +14,48 @@ Healthcare data is highly sensitive and cannot be easily shared due to privacy r
 
 ---
 
+---
+
+## 🌟 Novelty of the Project
+
+The main novelty of this project lies in combining **AI-driven de-identification** with **synthetic data regeneration** for healthcare records.
+
+Unlike traditional anonymization systems that simply remove or mask sensitive information, this system aims to preserve the usability and structure of Electronic Health Records (EHRs) while protecting patient privacy.
+
+### Key Novel Contributions
+
+#### 🔹 Hybrid PII Detection Architecture
+The system combines:
+
+- Transformer-based NLP models
+- Rule-based regex detection
+
+This hybrid approach improves robustness by handling both:
+- Unstructured clinical text
+- Structured identifiers such as phone numbers and hospital IDs
+
+---
+
+#### 🔹 Transformer-based Healthcare Entity Recognition
+The project fine-tunes a BERT-based token classification model to identify sensitive healthcare entities such as:
+
+- Patient names
+- Locations
+- Dates
+- Emails
+- Phone numbers
+- Hospital identifiers
+
+This allows domain-specific de-identification instead of relying only on generic NLP tools.
+
+---
+
+#### 🔹 Synthetic Data Regeneration
+Instead of replacing entities with generic placeholders such as:
+
+```text
+[NAME]
+
 ## 🧠 Features (MVP)
 
 * ✅ FastAPI REST API
