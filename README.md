@@ -14,6 +14,17 @@ Healthcare data is highly sensitive and cannot be easily shared due to privacy r
 
 ---
 
+## 🧠 Features (MVP)
+
+* ✅ FastAPI REST API
+* ✅ Hybrid PII Detection
+
+  * Regex (phone, email)
+  * NLP (names, locations, dates)
+* ✅ Anonymization Engine
+* ✅ Synthetic Data Generation
+* ✅ Swagger UI for testing
+
 ---
 
 ## 🌟 Novelty of the Project
@@ -55,17 +66,6 @@ Instead of replacing entities with generic placeholders such as:
 
 ```text
 [NAME]
-
-## 🧠 Features (MVP)
-
-* ✅ FastAPI REST API
-* ✅ Hybrid PII Detection
-
-  * Regex (phone, email)
-  * NLP (names, locations, dates)
-* ✅ Anonymization Engine
-* ✅ Synthetic Data Generation
-* ✅ Swagger UI for testing
 
 ---
 
